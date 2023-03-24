@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: #000000;
+    font-size: 24px;
+    background-image: url("Starfield.jpg");
+   /* background: linear-gradient(-45deg, #ed193b, #a98055, #4c91b9, #681d7a);
+	background-size: 400% 400%;
+	animation: gradient 10s ease infinite;*/
+}
+header{    
+    letter-spacing: 3px;
+}
+h1{
+    font-size: 28px;
+}
+
+.kontent{
+    background-color:white;
+}
+.form{
+    background-color:white;
+    background-image: url("fon.png");
+}
+.footer{
+    background-color:#000000;
+    color:aliceblue;
+}
